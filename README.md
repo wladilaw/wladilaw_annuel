@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+MotivaPro est un site professionnel de gestion de lettres de motivation. Le projet est basé sur [Next.js](https://nextjs.org) avec [Tailwind CSS](https://tailwindcss.com).
 
 ## Getting Started
 
