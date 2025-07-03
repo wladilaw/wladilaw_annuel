@@ -1,4 +1,5 @@
-MotivaPro est un site professionnel de gestion de lettres de motivation. Le projet est basé sur [Next.js](https://nextjs.org) avec [Tailwind CSS](https://tailwindcss.com).
+MotivaPro est un site professionnel de gestion de lettres de motivation. Le projet est basé sur [Next.js](https://nextjs.org) avec [Tailwind CSS](https://tailwindcss.com) et utilise les polices Inter et Playfair Display pour une présentation élégante.
+La page d'accueil propose un défilement fluide vers la section Fonctionnalités détaillant la personnalisation, les conseils professionnels et l'export facile.
 
 ## Getting Started
 
